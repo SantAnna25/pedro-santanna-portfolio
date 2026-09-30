@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="75 70 410 405" role="img" aria-label="Caveira pirata com ossos cruzados e chapéu de palha">
+  <g fill="none" stroke="#f5f5f5" stroke-width="26" stroke-linecap="round">
+    <path d="M135 126 425 416"/>
+    <path d="M425 126 135 416"/>
+  </g>
+  <g fill="#f5f5f5">
+    <circle cx="117" cy="108" r="20"/><circle cx="145" cy="94" r="20"/>
+    <circle cx="415" cy="94" r="20"/><circle cx="443" cy="108" r="20"/>
+    <circle cx="117" cy="434" r="20"/><circle cx="145" cy="448" r="20"/>
+    <circle cx="415" cy="448" r="20"/><circle cx="443" cy="434" r="20"/>
+  </g>
+  <path d="M280 183c-63 0-108 49-108 110 0 48 22 84 55 101 1 42 22 64 53 64s52-22 53-64c33-17 55-53 55-101 0-61-45-110-108-110Z" fill="#f4f4f4" stroke="#101010" stroke-width="5"/>
+  <circle cx="235" cy="286" r="27" fill="#101010"/>
+  <circle cx="325" cy="286" r="27" fill="#101010"/>
+  <circle cx="280" cy="322" r="10" fill="#101010"/>
+  <path d="M218 347q62 19 124 0l-6 45q-56 35-112 0Z" fill="#f4f4f4" stroke="#101010" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M218 367q62 21 124 0M244 351l-2 48m26-43-1 53m26-53 1 53m26-58 2 48" fill="none" stroke="#101010" stroke-width="4"/>
+  <path d="M173 212c6-66 46-112 107-112s101 46 107 112Z" fill="#e8e8e8" stroke="#101010" stroke-width="5"/>
+  <path d="M181 185h198l8 27H173Z" fill="#353535" stroke="#101010" stroke-width="4"/>
+  <path d="M133 211h294v17H133Z" fill="#f0f0f0" stroke="#101010" stroke-width="5" stroke-linejoin="round"/>
+  <path d="m207 149-6 15m25-29-6 17m23-24-4 15m102 4 5 17m-24-29 6 17m-23-24 4 15" stroke="#3d3d3d" stroke-width="4" stroke-linecap="round"/>
+</svg>
